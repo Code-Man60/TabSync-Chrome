@@ -12,20 +12,20 @@
 - ✅ **Türkçe arayüz** - Yerel dil desteği
 
 ## 🛠️ Kurulum
-1. **"Code"** butonuna tıkla → **"Download ZIP"**
-2. ZIP dosyasını aç
+1. **"Code"** butonuna tıkla → **"Download"**
+2. Dosyayı aç
 3. Chrome'da `chrome://extensions/` aç
 4. **Geliştirici modu** AÇ
 5. **"Paketlenmemiş öğe yükle"** tıkla
-6. `tab-sync-premium` klasörünü seç
+6. `Yüklediğin Klasör` klasörünü seç
 7. **Tamam!** 🎉
 
 ## 🐛 Hata Bildirimi & Öneriler
 Bir hata bulursan veya önerin varsa:
 bana yaz!
 
-## Versiyon:
-Beta 1.0
+## Son Versiyon:
+Alpha V1.0
 
 ⭐ **Beğendiysen yıldız ver, motivasyonum artar!**
 
