@@ -1,0 +1,37 @@
+# 🚨 TabSync - Chrome Sekme Kurtarıcı
+
+**Tek tıkla kaydet, bir tıkla geri yükle! Panik anlarında sekmelerini kurtar.**
+
+---
+
+## ⚡ Özellikler
+- ✅ **Tek tıkla kaydet** - Tüm açık sekmeleri kaydeder
+- ✅ **Geri yükle** - Kayıtlı sekmeleri tekrar açar
+- ✅ **Zaman damgası** - Ne zaman kaydettiğini gösterir
+- ✅ **Hafif ve hızlı** - Bilgisayarı yormaz
+- ✅ **Türkçe arayüz** - Yerel dil desteği
+
+## 🛠️ Kurulum
+1. **"Code"** butonuna tıkla → **"Download ZIP"**
+2. ZIP dosyasını aç
+3. Chrome'da `chrome://extensions/` aç
+4. **Geliştirici modu** AÇ
+5. **"Paketlenmemiş öğe yükle"** tıkla
+6. `tab-sync-premium` klasörünü seç
+7. **Tamam!** 🎉
+
+## 🐛 Hata Bildirimi & Öneriler
+Bir hata bulursan veya önerin varsa:
+bana yaz!
+
+## Versiyon:
+Beta 1.0
+
+⭐ **Beğendiysen yıldız ver, motivasyonum artar!**
+
+---
+
+## 📜 Lisans
+MIT Lisansı - Ücretsiz kullanım ve geliştirme
+
+*🇹🇷 Türk geliştirici cinoktu tarafından yapıldı*
