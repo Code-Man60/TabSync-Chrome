@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "TabSync - Panik Butonu",
+  "version": "1.0",
+  "description": "Tek tıkla tüm sekmelerini kaydet!",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "512": "icons/icon512.png"
+  }
+}
