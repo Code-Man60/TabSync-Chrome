@@ -25,7 +25,7 @@ Bir hata bulursan veya önerin varsa:
 bana yaz!
 
 ## Son Versiyon:
-Alpha V1.0 Maalesef Bir sorun var en düzgün sürüm: Beta V1.0
+Beta V1.0
 
 ⭐ **Beğendiysen yıldız ver, motivasyonum artar!**
 
